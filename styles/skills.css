@@ -1,0 +1,15 @@
+/* Skills */
+#skills {
+  text-align: center;
+  background: url(../images/skills/faith-skills.jfif) no-repeat center center/cover;
+}
+#skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#skills ul li {
+  background: #ddd;
+  margin: 5px 0;
+  padding: 10px;
+}

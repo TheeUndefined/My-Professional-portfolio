@@ -1,0 +1,41 @@
+/* Responsive Design */
+
+/* For tablets */
+@media screen and (max-width: 768px) {
+  nav ul {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  nav ul li {
+      margin: 10px 0;
+  }
+
+  .intro h1 {
+      font-size: 2.5rem;
+  }
+
+  .project-card {
+      width: 45%;
+  }
+}
+
+/* For mobile devices */
+@media screen and (max-width: 480px) {
+  .intro h1 {
+      font-size: 2rem;
+  }
+
+  #about p {
+      width: 90%;
+  }
+
+  .project-card {
+      width: 100%;
+      margin: 10px 0;
+  }
+
+  #contact-form {
+      width: 90%;
+  }
+}

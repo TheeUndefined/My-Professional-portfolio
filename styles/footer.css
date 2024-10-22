@@ -1,0 +1,50 @@
+/* Footer */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+  color: aliceblue;
+}
+
+footer ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+footer ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+footer ul li a:hover {
+  text-decoration: underline;
+}
+
+footer ul li img{
+  font-size: 3rem;
+}
+
+.back-to-top {
+  display: block;
+  margin-top: 10px;
+  color: white;
+  text-decoration: none;
+  color: #f39c12;
+}
+
+.back-to-top:hover {
+  text-decoration: underline;
+}
+
+footer p{
+  text-align: right;
+}

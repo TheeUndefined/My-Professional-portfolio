@@ -1,0 +1,51 @@
+#home {
+  background: url(../images/intro/faith-intro.jpg) no-repeat center center/cover;
+  height: 150vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro {
+  font-family: "Arima", system-ui;
+  margin-top: 10px;
+}
+.intro img {
+  width: 230px;
+  border-radius: 50%;
+}
+.intro h1 {
+    font-size: 2.7rem;
+    color: #333;
+}
+
+.intro p{
+  font-size: 1.5rem;
+  color: #333333;
+}
+
+.cta-button {
+  padding: 8px 20px;
+  background-color: #333;
+  color: #FFD700;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.cta-button:hover {
+  background-color: white;
+  color: #333;
+}
+
+
+
+
+
+
+
+
+
+

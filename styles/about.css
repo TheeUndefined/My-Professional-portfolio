@@ -1,0 +1,13 @@
+/* About Section */
+#about {
+  /* background-color: #f4f4f4; */
+  background: url(../images/About/faith-about.jpg) no-repeat center center/cover;
+}
+
+#about p {
+  width: 90%;
+  margin: 0 auto;
+  font-size: 2.0rem;
+  font-family: "Kalam", cursive;
+  color: #333333;
+}

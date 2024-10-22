@@ -1,0 +1,31 @@
+/* Projects Section */
+#projects{
+  background: url(../images/project/faith-project.png) no-repeat center center/cover;
+}
+#projects .project-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin: 20px;
+  width: 30%;
+}
+
+.project-card h3 {
+  color: #e28e17;
+}
+
+.project-card a {
+  text-decoration: none;
+  color: #333;
+}
+
+.project-card a:hover {
+  color: #f39c12;
+}
